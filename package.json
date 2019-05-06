@@ -1,7 +1,6 @@
 {
   "name": "day17",
   "homepage": "http://www.tylermaxwell.co/day17/",
-  "author": "Tyler Maxwell",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
